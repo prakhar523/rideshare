@@ -6,15 +6,15 @@ This case study was done as part of the Data Science Immersive program at Galvan
   - Analyze data from ride share "Company X" 
   - Prepare a presentation for "Company X"
 
-#The problem
+#The Problem
 
 Company X is interested in predicting rider retention. Identify what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Company X. 
 
-#The target
+#The Target
 
 Our target was to analyze churn rates for Company X. A customer is pronounced "inactive" or "churned" if they have not used the service in the last 30 days. 
 
-#Exploratory Data Analysis:
+#Exploratory Data Analysis
 
 Number of records: 50,000
 Inactive customers:   30777   61%
@@ -27,8 +27,8 @@ Avg_rating_by_driver (201) – replaced with average of column
 Avg_rating_of_driver (8122) - replaced with average of column
 Phone (type) – (396) replaced with ‘Unknown’
  
- #Model Selection
+#Model Selection
  
  We chose Random Forests to model churn prediction based on accuracy, precision, and recall. This model was chosen over Logistic Regression, Decision Tree, SVM, and Naive Bayes. 
  
-![Model Selection](rideshare/model_choosing.png?raw=true "Choosing a Model")
+![Model Selection](/model_choosing.png?raw=true "Choosing a Model")
