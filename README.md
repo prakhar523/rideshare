@@ -2,12 +2,9 @@
 
 #Intro 
 
-This case study was done as part of my enrollment in the Data Science Immersive program at Galvanize. My partner Cynthia and I were given 7 hours from start to finish to analyze data from a ride share company and prepare a presentation that answered the following questions:
+This case study was done as part of the Data Science Immersive program at Galvanize. My partner Cynthia and I were given 7 hours to analyze data from a ride share company, and prepare a presentation that addressed the problem. The problem was presented as such:
 
-  - How did you compute the target?
-  - What model did you use in the end? Why?
-  - Alternative models you considered? Why are they not good enough?
-  - What performance metric did you use? Why?
-  - Based on insights from the model, what actionable plans do you propose to reduce churn?
-  
-  
+#(Company X) is interested in predicting rider retention. Identify what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Company X. 
+
+ 
+ 
