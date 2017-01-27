@@ -17,8 +17,6 @@ The target was to analyze churn rates for Company X. A customer is pronounced "i
 #Exploratory Data Analysis
 
 Number of records: 50,000
-Inactive customers:   30777 - 61%
-Active customers   19223 - 39%
 
 Data limited to 3 cities
 
