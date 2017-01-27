@@ -22,9 +22,7 @@ Data limited to 3 cities
 
 Columns with NaN values:
 Avg_rating_by_driver (201) – replaced with average of column
-
 Avg_rating_of_driver (8122) - replaced with average of column
-
 Phone (type) – (396) replaced with ‘Unknown’
 
 #Model Selection
