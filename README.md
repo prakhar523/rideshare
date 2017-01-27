@@ -40,7 +40,7 @@ The following graphs were used to tune the parameters of the Random Forests mode
 
 #Findings
 
-The first major divide in the data was seen between cities. One city showed 1/2 the churn rate of the other two. Next we tracked feature importances in the Random Forests model. This proves which features most polarized the churn group vs. the not churn group.
+The first major divide in the data was seen between cities. One city showed two times more active users the other two. Next we tracked feature importances in the Random Forests model. This showed which features most polarized the active group vs. the inactive group.
 
 ![Model Tuning](/city_differences.png?raw=true "Tuning Our Model")
 
