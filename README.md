@@ -8,7 +8,7 @@ This case study was done as part of the Data Science Immersive program at Galvan
 
 #The Problem
 
-Company X is interested in predicting rider retention. Identify what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Company X. 
+Company X is interested in predicting rider retention. The task calls to identify what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Company X. 
 
 #The Target
 
@@ -40,7 +40,10 @@ The following graphs were used to tune the parameters of the Random Forests mode
 
 #Findings
 
-The first major divide in the data was seen between cities. One city showed two times more active users the other two. Next we tracked feature importances in the Random Forests model. This showed which features most polarized the active group vs. the inactive group.
+The first major divide in the data was seen between cities. One city showed two times more active users the other two. Next we tracked feature importances in the Random Forests model. This showed which features most polarized the active group vs. the inactive group. 
+
+Advice for Company X would be to further explore how they operate in each city. It seems average rating by driver separates inactive/active users most in the cities where churn rates were highest. Surge percentage also separates users significantly across the three cities. 
+
 
 ![Model Tuning](/city_differences.png?raw=true "Tuning Our Model")
 
