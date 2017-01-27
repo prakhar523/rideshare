@@ -33,8 +33,14 @@ Random Forests proved to be most appropriate to model churn prediction based on 
  
 ![Model Selection](/model_choosing.png?raw=true "Choosing a Model")
 
-##Tuning The Model
+###Tuning The Model
 
 The following graphs were used to tune the parameters of the Random Forests model.
 ![Model Tuning](/rf_parameters.png?raw=true "Tuning Our Model")
+
+#Findings
+
+The first major divide in the data was seen between cities. One city showed 1/2 the churn rate of the other two. Next we tracked feature importances in the Random Forests model. This proves which features most polarized the churn group vs. the not churn group.
+
+![Model Tuning](/city_differences.png?raw=true "Tuning Our Model")
 
