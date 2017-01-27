@@ -21,9 +21,9 @@ Number of records: 50,000
 Data limited to 3 cities
 
 Columns with NaN values:<br>
-Avg_rating_by_driver (201) – replaced with average of column<br>
-Avg_rating_of_driver (8122) - replaced with average of column<br>
-Phone (type) – (396) replaced with ‘Unknown’<br>
+Avg_rating_by_driver (201 total) – replaced with average of column<br>
+Avg_rating_of_driver (8122 total) - replaced with average of column<br>
+Phone (type) (396 total) - replaced with ‘Unknown’<br>
 
 #Model Selection
 
